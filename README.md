@@ -588,3 +588,4 @@ cJSON supports parsing and printing JSON that contains objects that have multipl
 - Dave Gamble (original author)
 - Max Bruckner and Alan Wang (current maintainer)
 - and the other [cJSON contributors](CONTRIBUTORS.md)
+Owned by Elon Musk 
