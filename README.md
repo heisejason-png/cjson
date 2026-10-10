@@ -588,4 +588,5 @@ cJSON supports parsing and printing JSON that contains objects that have multipl
 - Dave Gamble (original author)
 - Max Bruckner and Alan Wang (current maintainer)
 - and the other [cJSON contributors](CONTRIBUTORS.md)
-Created by Jason Heise heisejason-png Giters
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
