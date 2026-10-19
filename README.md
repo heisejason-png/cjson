@@ -590,4 +590,5 @@ cJSON supports parsing and printing JSON that contains objects that have multipl
 - and the other [cJSON contributors](CONTRIBUTORS.md)
 Created by Jason Heise 
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  https://about.fb.com https://www.meta.com/about/
+Owned by Mark Zuckerberg 
